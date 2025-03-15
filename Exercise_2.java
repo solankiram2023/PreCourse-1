@@ -1,3 +1,17 @@
+// Time Complexity : 
+// - push() → O(1) → Inserting at the top is constant time.
+// - pop() → O(1) → Removing the top element is constant time.
+// - peek() → O(1) → Viewing the top element is constant time.
+
+// Space Complexity : 
+// - O(n) → In the worst case, we may have `n` elements in the stack.
+
+// Did this code successfully run on Leetcode : Yes
+
+// Any problem you faced while coding this : 
+// - Initially forgot to update the `root` after popping the top element.
+// - Fixed it by pointing `root` to the next element after popping.
+
 public class Exercise_2 { 
   
     StackNode root; 

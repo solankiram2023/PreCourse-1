@@ -1,3 +1,11 @@
+// Time Complexity :O(n)
+// Space Complexity :O(n)
+// Did this code successfully run on Leetcode :
+// Any problem you faced while coding this :
+
+
+// Your code here along with comments explaining your approach
+
 // a Singly Linked List 
 public class Exercise_3 { 
   
