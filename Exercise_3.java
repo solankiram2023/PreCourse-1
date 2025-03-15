@@ -63,11 +63,12 @@ public class Exercise_3 {
             System.out.print(currNode.data+"->");
             currNode=currNode.next;
         }
+        // Go to next node 
         System.out.println("null");
    
             
        
-            // Go to next node 
+            
     } 
    
     // Driver code 
